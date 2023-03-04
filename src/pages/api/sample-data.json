@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "/imgs/bitcoin.png",
+    "name": "Bitcoin (BTC)",
+    "price": 31812.8,
+    "percent_change_of_price": 10,
+    "tvl": 60000,
+    "pairs": ["/imgs/solana.png", "/imgs/ethereum.png", "/imgs/binance.png"]
+  },
+  {
+    "icon": "/imgs/solana.png",
+    "name": "Solana (SOL)",
+    "price": 32.83,
+    "percent_change_of_price": -12.32,
+    "tvl": 60000,
+    "pairs": ["/imgs/bitcoin.png", "/imgs/ethereum.png", "/imgs/binance.png"]
+  },
+  {
+    "icon": "/imgs/ethereum.png",
+    "name": "Ethereum (ETH)",
+    "price": 1466.45,
+    "percent_change_of_price": -11.93,
+    "tvl": 60000,
+    "pairs": ["/imgs/solana.png", "/imgs/bitcoin.png", "/imgs/binance.png"]
+  },
+  {
+    "icon": "/imgs/binance.png",
+    "name": "Binance USD (BUSD)",
+    "price": 1.0,
+    "percent_change_of_price": 0.26,
+    "tvl": 60000,
+    "pairs": ["/imgs/solana.png", "/imgs/ethereum.png", "/imgs/binance.png"]
+  },
+  {
+    "icon": "/imgs/shiba.png",
+    "name": "Shiba Inu (SHIB)",
+    "price": 0.00000001948,
+    "percent_change_of_price": -8.1,
+    "tvl": 60000,
+    "pairs": ["/imgs/solana.png", "/imgs/ethereum.png", "/imgs/binance.png"]
+  }
+]
